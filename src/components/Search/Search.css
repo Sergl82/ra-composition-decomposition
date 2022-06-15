@@ -1,0 +1,37 @@
+.Search {
+   margin-bottom: 20px;
+}
+
+.Search__serviceList {
+   display: flex;
+   padding-left: 0;
+}
+
+.Search__serviceList_item {
+   margin-right: 6px;
+   margin-top: 10px;
+   font-size: 14px;
+   list-style-type: none;
+}
+
+.Search__row {
+   position: relative;
+}
+
+.Search__logo {
+   position: absolute;
+   top: 2px;
+   left: -75px;
+}
+
+.search-input {
+   margin-right: 10px;
+}
+
+.Search__example {
+   font-size: 12px;
+}
+
+.Search__example_text {
+   margin-right: 5px;
+}

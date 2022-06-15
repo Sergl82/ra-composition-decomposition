@@ -1,0 +1,40 @@
+.News__tab {
+   display: flex;
+   padding-left: 0;
+}
+
+.News__tab_item {
+   margin-right: 20px;
+   font-size: 14px;
+   list-style-type: none;
+}
+
+.News__list {
+   padding-left: 0;
+}
+
+.News__list_item {
+   font-size: 12px;
+   list-style-type: none;
+}
+
+.News__exchangeRates {
+   display: flex;
+   padding-left: 0;
+}
+
+.News__exchangeRates_item {
+   font-size: 12px;
+   list-style-type: none;
+   margin-right: 10px;
+}
+
+.News__exchangeRates_link {
+   margin-right: 3px;
+}
+
+.News__exchangeRates_variation {
+   font-size: 10px;
+   margin-right: 2px;
+   color: grey;
+}
